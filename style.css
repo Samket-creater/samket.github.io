@@ -1,0 +1,55 @@
+*{
+	text-align: right;
+}
+body{
+	background-image: url(felower.jpg);
+	background-size: cover;
+}
+h1{
+	color:white;
+	text-align: center;
+}
+.li1{
+color: red;
+list-style: none;
+display: inline-block;
+
+}
+
+h3,h2{
+	color: red;
+	cursor: pointer;
+	border: 2px yellow dashed;
+	text-align: left;
+}
+h3{
+	border-width: small;
+}
+.text1{
+	color: blue;
+	/*text-align: right;*/
+
+
+}
+.text2{
+	color:yellow;
+}
+.text3{
+	color:red;
+}
+.me{
+	color:green;
+}
+#div1{
+	color:pink;
+	/*background-color: yellow;*/
+}
+	
+.l1{
+	/*border: 4px dashed red;
+	list-style:none;
+	display: inline-block;*/
+}
+#div2{
+	text-align: left;
+}
